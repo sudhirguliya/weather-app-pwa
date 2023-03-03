@@ -17,7 +17,7 @@ serve -s build
 
 ## Demo available at 
 
-[https://weather-app-chi-puce.vercel.app] https://weather-app-chi-puce.vercel.app/
+https://weather-app-sudhir-puce.vercel.app/
 
 ## Available Scripts
 
